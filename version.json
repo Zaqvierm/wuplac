@@ -1,6 +1,6 @@
-﻿{
-    "studio_version":  "v13.2.1",
-    "userscript_version":  "1.5.17",
-    "package_url":  "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
-    "notes":  "ZPlace Studio v13.2.1: tray minimize, HUD droplets, buy current charges, split max-limit and charge purchases."
+{
+  "studio_version": "v13.2.1",
+  "userscript_version": "1.5.17",
+  "package_url": "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
+  "notes": "ZPlace Studio v13.2.1: tray minimize, HUD droplets, buy current charges, split max-limit and charge purchases."
 }
