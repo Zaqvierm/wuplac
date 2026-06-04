@@ -1,6 +1,6 @@
 {
-  "studio_version": "v13.2.2",
+  "studio_version": "v13.2.3",
   "userscript_version": "1.5.17",
   "package_url": "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
-  "notes": "ZPlace Studio v13.2.2: fixed tray exit, manifest UTF-8 handling, and broken UI text."
+  "notes": "ZPlace Studio v13.2.3: added update server diagnostics, fresh-version notification, and fixed queue file detection when Studio/server see different Queue folders."
 }
