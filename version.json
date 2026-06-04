@@ -1,6 +1,6 @@
 {
-  "studio_version": "v13.2.3",
+  "studio_version": "v13.2.4",
   "userscript_version": "1.5.17",
   "package_url": "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
-  "notes": "ZPlace Studio v13.2.3: added update server diagnostics, fresh-version notification, and fixed queue file detection when Studio/server see different Queue folders."
+  "notes": "ZPlace Studio v13.2.4: fixed tray fallback and Windows taskbar icon handling."
 }
