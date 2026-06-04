@@ -1,6 +1,6 @@
 {
-  "studio_version": "v13.2.4",
+  "studio_version": "v13.2.5",
   "userscript_version": "1.5.17",
   "package_url": "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
-  "notes": "ZPlace Studio v13.2.4: fixed tray fallback and Windows taskbar icon handling."
+  "notes": "ZPlace Studio v13.2.5: redesigned Queue dashboard, hidden admin/debug mode, account collapse, shop-style buy modal, instant actions, and dynamic queue rebalance."
 }
