@@ -1,6 +1,6 @@
 {
-  "studio_version": "v13.2.5",
+  "studio_version": "v13.2.8",
   "userscript_version": "1.5.17",
   "package_url": "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
-  "notes": "ZPlace Studio v13.2.5: redesigned Queue dashboard, hidden admin/debug mode, account collapse, shop-style buy modal, instant actions, and dynamic queue rebalance."
+  "notes": "ZPlace Studio v13.2.8: Queue dashboard spacing/color fixes, richer hidden diagnostics, safer Copier JSON selection, compact collapsed account cards, Place Show placement UI cleanup, and Copier palette account availability hints."
 }
