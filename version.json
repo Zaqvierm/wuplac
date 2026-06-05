@@ -1,6 +1,6 @@
 {
-    "studio_version":  "v13.3.2",
+    "studio_version":  "v13.3.3",
     "userscript_version":  "1.5.20",
     "package_url":  "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
-    "notes":  "ZPlace Studio v13.3.2 hotfix: fixed dynamic queue rebalance after max-pixel purchases. Queue chunks now keep the original total pixel pool, redistribute tail pixels correctly, merge empty/excess jobs, and show all account jobs instead of hiding everything after #15."
+    "notes":  "ZPlace Studio v13.3.3: forced update for queue rebalance fix. Dynamic queue now stores a real batch total/seed and redistributes existing pixels only: example 15x102 -> 14x107 + 32 after max-pixel purchase, without creating extra pixels."
 }
