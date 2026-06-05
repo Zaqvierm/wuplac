@@ -1,6 +1,6 @@
 {
-    "studio_version":  "v13.3.1",
-    "userscript_version":  "1.5.19",
+    "studio_version":  "v13.3.2",
+    "userscript_version":  "1.5.20",
     "package_url":  "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
-    "notes":  "ZPlace Studio v13.3.1: bug sweep for Studio, Dashboard and userscript. Fixed dashboard duplicate embed, capped queue heatmap rendering for huge ranges, fixed purchase command compatibility, cleaned userscript README encoding, and synced package checks."
+    "notes":  "ZPlace Studio v13.3.2: fixed empty 0px queue jobs, challenge-required handling as token/manual action, equippedFlag cashback detection, sequential timing for future queue jobs, level-up rewards (+500 droplets and +2 max pixels), premium/basic mixer priority behavior, and premium color diamond icons."
 }
