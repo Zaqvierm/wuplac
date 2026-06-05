@@ -2,5 +2,5 @@
     "studio_version":  "v13.3.2",
     "userscript_version":  "1.5.20",
     "package_url":  "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
-    "notes":  "ZPlace Studio v13.3.2: fixed empty 0px queue jobs, challenge-required handling as token/manual action, equippedFlag cashback detection, sequential timing for future queue jobs, level-up rewards (+500 droplets and +2 max pixels), premium/basic mixer priority behavior, and premium color diamond icons."
+    "notes":  "ZPlace Studio v13.3.2 hotfix: fixed dynamic queue rebalance after max-pixel purchases. Queue chunks now keep the original total pixel pool, redistribute tail pixels correctly, merge empty/excess jobs, and show all account jobs instead of hiding everything after #15."
 }
