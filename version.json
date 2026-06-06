@@ -1,6 +1,6 @@
 {
-    "studio_version":  "v13.3.3",
-    "userscript_version":  "1.5.20",
+    "studio_version":  "v13.3.4",
+    "userscript_version":  "1.5.21",
     "package_url":  "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
-    "notes":  "ZPlace Studio v13.3.3: forced update for queue rebalance fix. Dynamic queue now stores a real batch total/seed and redistributes existing pixels only: example 15x102 -> 14x107 + 32 after max-pixel purchase, without creating extra pixels."
+    "notes":  "ZPlace Studio v13.3.4: fixed flag cashback accounting so copier/queue no longer spend future cashback upfront, added adaptive userscript queue polling, fixed premium/basic palette icons, constrained copier account panel, and opens a separate accounts window when there are more than 4 accounts."
 }
