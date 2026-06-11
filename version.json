@@ -1,6 +1,6 @@
 {
-    "studio_version":  "v13.3.4",
-    "userscript_version":  "1.5.21",
+    "studio_version":  "v14.0.0",
+    "userscript_version":  "1.6.8-pool",
     "package_url":  "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
-    "notes":  "ZPlace Studio v13.3.4: fixed flag cashback accounting so copier/queue no longer spend future cashback upfront, added adaptive userscript queue polling, fixed premium/basic palette icons, constrained copier account panel, and opens a separate accounts window when there are more than 4 accounts."
+    "notes":  "ZPlace Studio v14.0.0: added Pool test workflow, strict Queue/Pool mode switching, Pool reservations with source fingerprint protection, safer failed-job retry logic, PaintNOW and pending buy commands, improved Pool dashboard/filter flow, refreshed onboarding in Studio and Dashboard, and fixed several queue/pool sync issues after art changes."
 }
