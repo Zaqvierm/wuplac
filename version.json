@@ -1,6 +1,6 @@
 {
-    "studio_version":  "v14.0.0",
-    "userscript_version":  "1.6.8-pool",
+    "studio_version":  "v14.1.1",
+    "userscript_version":  "1.6.9-pool",
     "package_url":  "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
-    "notes":  "ZPlace Studio v14.0.0: added Pool test workflow, strict Queue/Pool mode switching, Pool reservations with source fingerprint protection, safer failed-job retry logic, PaintNOW and pending buy commands, improved Pool dashboard/filter flow, refreshed onboarding in Studio and Dashboard, and fixed several queue/pool sync issues after art changes."
+    "notes":  "ZPlace Studio v14.1.1: добавлены уведомления о полном восстановлении зарядов: отдельно по аккаунту, когда он впервые стал full, и отдельно когда все известные аккаунты набрали максимум. Проверка работает по /me и локальному таймеру Studio, без лишнего спама при старте."
 }
