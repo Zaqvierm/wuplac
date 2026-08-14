@@ -1,6 +1,6 @@
 {
-    "studio_version":  "v14.1.1",
-    "userscript_version":  "1.6.9-pool",
-    "package_url":  "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
-    "notes":  "ZPlace Studio v14.1.1: добавлены уведомления о полном восстановлении зарядов: отдельно по аккаунту, когда он впервые стал full, и отдельно когда все известные аккаунты набрали максимум. Проверка работает по /me и локальному таймеру Studio, без лишнего спама при старте."
+  "studio_version": "v15.0.0-sync",
+  "userscript_version": "1.7.6-mobile",
+  "package_url": "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
+  "notes": "ZPlace Studio v15.0.0-sync: добавлена Sync-система для совместной работы с артами, серверные ревизии и уникальные резервы пикселей; исправлены карточки артов и мобильный LAN-клиент."
 }
