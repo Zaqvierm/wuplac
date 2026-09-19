@@ -1,6 +1,6 @@
 {
-  "studio_version": "v16.0.1-sync",
-  "userscript_version": "1.7.7-mobile / 1.7.2-sync",
+  "studio_version": "v17.0.0-overlay-diff-streams",
+  "userscript_version": "1.8.8-overlay-diff-stream / 1.7.7-mobile",
   "package_url": "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
-  "notes": "ZPlace Studio v16.0.1-sync: визуальный выбор арта с превью и вариантами Ориг/Фильтр; исправлены смещение масок, зависание при выборе и работа лассо; добавлены разделённые Pool-потоки с областями."
+  "notes": "ZPlace Studio v17: native Wplace Overlay sync, automatic overlayDiff JSON files, exact UNPAINTED/MISMATCHED coordinates, OverMoni art picker entries, explicit stream mode switching, and final-pool remainder allocation."
 }
