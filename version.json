@@ -1,6 +1,6 @@
 {
-  "studio_version": "v17.0.2-live-stream-refresh",
-  "userscript_version": "1.8.9-lease-status / 1.7.8-mobile",
+  "studio_version": "v19.0.0",
+  "userscript_version": "1.8.12-charge-pass / 1.7.11-mobile-charge-pass",
   "package_url": "https://github.com/Zaqvierm/wuplac/releases/latest/download/ZPlace-Studio-update.zip",
-  "notes": "ZPlace Studio v17.0.2: stream cards and open mask editors refresh immediately after pool_done, stream source validation is independent from the ordinary Copier, and lease failures stay visible in PC and mobile clients."
+  "notes": "ZPlace Studio v19.0.0: browser Studio, Edge capture, fixed native 3x3 extraction, pixel and map caches, independent console. Existing data and browser preferences preserved. See release notes for known Sync limitations."
 }
